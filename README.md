@@ -4,13 +4,34 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+📱 Basic Calculator
 
-A few resources to get you started if this is your first Flutter project:
+✅ Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (×), Division (÷)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Decimal Calculations: Precise floating-point arithmetic
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Percentage Calculations: Quick percentage computations
+
+✅ Sign Toggle (±): Instant positive/negative number switching
+
+✅ Smart Input Management: Clear (C) and backspace functionality
+
+✅ Live Expression Display: Real-time calculation preview
+
+### Features
+✨ Key Features:
+
+🧮 Dual Mode Interface - Switch between Basic and Scientific calculator modes
+
+📚 Smart History System - Track calculations with timestamps and reuse results
+
+⚡ Advanced Scientific Functions - Complete trigonometric, logarithmic, and algebraic operations
+
+🎨 Beautiful Modern Design - Clean interface with smooth animations and haptic feedback
+
+📐 Mathematical Constants - Quick access to π (pi) and e (Euler's number)
+
+🔧 Professional Tools - Percentage calculations, sign toggle, memory operations
+
+📱 Responsive Design - Works perfectly across all device sizes
+
