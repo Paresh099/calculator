@@ -18,20 +18,43 @@ A new Flutter project.
 
 ✅ Live Expression Display: Real-time calculation preview
 
-### Features
-✨ Key Features:
+## 🌟 Outstanding Features
 
-🧮 Dual Mode Interface - Switch between Basic and Scientific calculator modes
+🔢 Dual Mode Excellence
 
-📚 Smart History System - Track calculations with timestamps and reuse results
+🧮 Basic Calculator Mode → Perfect for everyday arithmetic operations
 
-⚡ Advanced Scientific Functions - Complete trigonometric, logarithmic, and algebraic operations
+🔬 Scientific Calculator Mode → Advanced mathematical functions at your fingertips
 
-🎨 Beautiful Modern Design - Clean interface with smooth animations and haptic feedback
+🔄 Seamless Mode Switching → Toggle between modes with a single tap
 
-📐 Mathematical Constants - Quick access to π (pi) and e (Euler's number)
+💡 Smart Mode Detection → Automatically adapts interface based on selected mode
 
-🔧 Professional Tools - Percentage calculations, sign toggle, memory operations
+🧪 Scientific Powerhouse
 
-📱 Responsive Design - Works perfectly across all device sizes
+📐 Complete Trigonometry Suite → sin, cos, tan, asin, acos, atan functions
+
+🌍 Flexible Angle Support → Switch between Radians and Degrees instantly
+
+📊 Advanced Logarithms → Natural log (ln) and base-10 logarithmic functions
+
+⚡ Power Functions Galore → Square (x²), cube (x³), and custom power (^) operations
+
+√ Root Calculations → Perfect square root computations
+
+🔢 Mathematical Constants → Built-in π (pi) and e (Euler's number) support
+
+## 🎨 Design Excellence
+
+✨ Glassmorphism Aesthetics → Modern glass-like effects and translucent elements
+
+🎭 Fluid Animations → Smooth slide transitions and micro-interactions
+
+🌈 Intelligent Color Coding → Intuitive color schemes for different button categories
+
+🔤 Premium Typography → SF Pro Display font for crystal-clear text rendering
+
+📐 Responsive Architecture → Flawless adaptation to various screen sizes and orientations
+
+🎯 Accessibility First → Designed with inclusive user experience principles
 
