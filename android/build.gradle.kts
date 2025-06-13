@@ -3,6 +3,10 @@ allprojects {
         google()
         mavenCentral()
     }
+    dependencies {
+        implementation "io.flutter:flutter_embedding_debug:1.0.0" // usually auto-handled
+    }
+
 }
 
 val newBuildDir: Directory = rootProject.layout.buildDirectory.dir("../../build").get()
